@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    font-size: 90px;
+    border-radius: 30px;
+}
+
+.button-css {
+    text-align: center;
+    margin-top: 300px;
+}
+
+.button-css :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+    background-color: black;
+    color: aqua;
+    border-radius: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    margin-top: 390px;
+    color: black;
+}
+
+footer :hover {
+    opacity: 0.5;
+}
